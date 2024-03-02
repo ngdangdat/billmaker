@@ -1,0 +1,14 @@
+
+theme = ""
+background_color = ""
+
+[from]
+name = "Tran Minh A"
+address = "123 Street, Ward 10, District 10, Ho Chi Minh"
+zipcode = "700000"
+
+[to]
+name = "Tran Minh A"
+address = "123 Street, Ward 10, District 10, Ho Chi Minh"
+zipcode = "700000"
+
